@@ -156,7 +156,7 @@ def get_int_input(prompt):
 
 
 def main():
-    filename = "E:/VIT/VScode/ADS Project/trial6/Accounts.csv"
+    filename = "file_path.csv"
 
     password_list = ["12345", "54321", "11111"]
 
